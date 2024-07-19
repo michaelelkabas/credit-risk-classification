@@ -2,7 +2,6 @@
 
 ## Overview of the Analysis
 
-Overview of the Analysis
 The purpose of this analysis is to develop a machine learning model that can predict the creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company. By accurately predicting whether a loan will be healthy (low risk) or high-risk, the company can make more informed lending decisions, potentially reducing defaults and improving overall financial stability.
 
 ## Results
