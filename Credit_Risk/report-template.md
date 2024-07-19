@@ -14,21 +14,24 @@ Class 0 (Healthy Loans)
 Precision: 100%
 Recall: 99%
 F1-Score: 100%
+
 Class 1 (High-Risk Loans)
 Precision: 85%
 Recall: 91%
 F1-Score: 88%
-Summary
-The logistic regression model demonstrates strong performance with an overall accuracy of 99.2%. The key metrics for both classes are as follows:
+
+Summary: The logistic regression model demonstrates strong performance with an overall accuracy of 99.2%. The key metrics for both classes are as follows:
 
 Class 0 (Healthy Loans)
 Precision: The model correctly predicts 100% of healthy loans as healthy, indicating no false positives.
 Recall: The model correctly identifies 99% of all actual healthy loans, showing very few false negatives.
 F1-Score: The harmonic mean of precision and recall is 100%, reflecting excellent performance.
+
 Class 1 (High-Risk Loans)
 Precision: The model correctly predicts 85% of high-risk loans as high-risk, indicating a moderate level of false positives.
 Recall: The model correctly identifies 91% of all actual high-risk loans, showing a high level of true positives.
 F1-Score: The harmonic mean of precision and recall is 88%, reflecting strong performance in identifying high-risk loans.
+
 Justification for Recommendation
 Based on the results, I recommend the use of this logistic regression model for the following reasons:
 
